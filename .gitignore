@@ -1,0 +1,26 @@
+# Ignore temporary files
+*.log
+*.pot
+*.pyc
+
+# Ignore IDE settings
+.idea/
+.vscode/
+
+# Ignore venv
+*venv
+
+# Settings files
+*prod_settings.py
+
+# Env files
+.env
+
+# DB dump
+db_dump.json
+
+# SSL certificates
+ssl_certificates
+
+# nginx.conf
+conf
